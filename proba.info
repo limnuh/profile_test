@@ -5,8 +5,7 @@ core = 7.x
 dependencies[] = block
 dependencies[] = dblog
 dependencies[] = admin_menu
-dependencies[] = features
-dependencies[] = proba_blog
+dependencies[] = blog_motor
 
 ; Information added by Drupal.org packaging script on 2014-11-19
 version = "7.34"
