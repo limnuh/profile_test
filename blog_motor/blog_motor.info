@@ -1,0 +1,11 @@
+name = Blog motor
+core = 7.x
+package = Features
+dependencies[] = features
+dependencies[] = filter
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_instance][] = node-blogbejegyz_s-body
+features[filter][] = plain_text
+features[node][] = blogbejegyz_s

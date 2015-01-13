@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Blog motor feature.
+ */
+
+include_once 'blog_motor.features.inc';

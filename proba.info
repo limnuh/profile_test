@@ -6,6 +6,7 @@ dependencies[] = block
 dependencies[] = dblog
 dependencies[] = admin_menu
 dependencies[] = features
+dependencies[] = proba_blog
 
 ; Information added by Drupal.org packaging script on 2014-11-19
 version = "7.34"
